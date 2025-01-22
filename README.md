@@ -8,3 +8,6 @@
 
 ## Update from enhancement/merge-6861
 - Auto-generated changes
+
+## Update from fix/update-9920
+- Auto-generated changes
