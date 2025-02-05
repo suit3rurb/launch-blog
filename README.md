@@ -11,3 +11,6 @@
 
 ## Update from docs/merge-7715
 - Auto-generated changes
+
+## Update from feature/update-6716
+- Auto-generated changes
