@@ -8,3 +8,6 @@
 
 ## Update from enhancement/merge-6861
 - Auto-generated changes
+
+## Update from docs/merge-7715
+- Auto-generated changes
