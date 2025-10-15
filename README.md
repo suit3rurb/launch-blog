@@ -5,3 +5,6 @@
 
 ## Update from enhancement/merge-6725
 - Auto-generated changes
+
+## Update from docs/update-7249
+- Auto-generated changes
